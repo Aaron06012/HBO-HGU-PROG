@@ -12,3 +12,6 @@ Luchtvochtigheid = input("Luchtvochtigheid als geheel percentage ")
 print("het temperatuur vandaag is", celsius)
 print("het windsnelheid vandaag is", Windsnelheid)
 print("het luchtvochtigheid vandaag is", Luchtvochtigheid)
+
+
+DIT IS EEN AANPASSING SKFAHFLAHFLASDFLAKSFDLAKJF
