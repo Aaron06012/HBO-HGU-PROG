@@ -5,4 +5,5 @@ vocht = float(input("Wat is op dag 1 de vochtigheid[%]: "))
 fahrenheit = 32 + 1.8 * temp
 
 gem = (print(F"De gemiddelde Temperatuur is: {temp} C = {fahrenheit} F"))
-gevoel = (print("De gevoelstemperatuurr is: {temp} – {vochtigheid} / 100 * {wind}."))
+gevoel = temp - (vocht / 100 * wind)
+print(gevoel)
