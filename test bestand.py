@@ -6,9 +6,13 @@
    #     float(mark)
     #except ValueError:
     #    print("This is not a number")
-celsius = input ("Temperatuur Celsius ")
+#celsius = input ("Temperatuur Celsius ")
 
-Windsnelheid = input("Windsnelheid meter per seconde ")
-Luchtvochtigheid = input("Luchtvochtigheid als geheel percentage ")
+#Windsnelheid = input("Windsnelheid meter per seconde ")
+#Luchtvochtigheid = input("Luchtvochtigheid als geheel percentage ")
 
-int(celsius, Windsnelheid, Luchtvochtigheid)
+#int(celsius, Windsnelheid, Luchtvochtigheid)
+#gem = (print(F"De gemiddelde Temperatuur is: {celsius} C = {fahrenheit} F"))
+Weekdays = ["Maandag","Dinsdag", "Woensdag","Donderdag", "Vrijdag"]
+for Dagen in Weekdays :
+    print(Dagen[0] + Dagen[1])
