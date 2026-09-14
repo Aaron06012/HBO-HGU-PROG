@@ -7,4 +7,3 @@ fahrenheit = 32 + 1.8 * temp
 print("de gemiddlede temperatuur is:", temp, "C =", fahrenheit, "F")
 gevoel = temp - (vocht / 100 * wind)
 print("De gevoelstemperatuur is:", (gevoel), "C")
-                                             
